@@ -1,0 +1,65 @@
+01.02-v5
+https://support-test.accenture.com/nav_to.do?uri=%2Fchange_request.do%3Fsys_id%3De3cae1561b736b00e60eb8cc1d4bcb19%26sysparm_stack%3D%26sysparm_view%3D
+
+
+|https://adtffgenericadptrstg00104.accenture.com/genericconnector/restservice
+
+CHG0543596 --1302--TSD_6_2_STG02504
+CHG0543619 --Agile1_1_1_TSD_STG00201
+CHG0543618--TSD_Traditional_V101_STG02101
+
+CHG0543621
+
+A02957DIRNAMRSTG2504
+
+
+def.end.e1
+
+
+-----------------------------
+https://adtclmamrstg02201.accenture.com/ccm/web/projects/TSD_T5_02201
+
+https://adtppmus01ws2013stg.accenture.com/CLM5IntegTest   
+
+476
+
+
+10.83.64.64
+10.83.68.222
+
+
+
+
+
+
+===============
+section 1.2,1.5 hyper link 
+support portal hyper link
+
+pge 20, 2.1 split
+
+pge 22: 3.1
+issu e- wd screen shot
+cuase: 
+resolution : point it to 3.2
+
+3.2.2 modify
+
+faq: 1st  : add steps(navigation).
+numbering faq
+_NKH1wO1DEeaZivAlWx9-zA 
+WSDL: https://adtppmus2019integrationsvc.ciostage.accenture.com/ACN_MSPS-RTC_Integration/ACNMSPS_RTC_IntegrationService.svc?wsdl 
+Instance: https://adtppmus01ws2019.ciostage.accenture.com/AandPMSPSOperations 
+
+
+
+
+https://adtppmus2013integrationsvcstg.accenture.com/ACN_MSPS-RTC_Integration/ACNMSPS_RTC_IntegrationService.svc?wsdl 
+
+
+
+
+
+https://adtppmus01ws2013stg.accenture.com/CLM5IntegTest
+
+blue prism.com 
